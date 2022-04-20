@@ -1,5 +1,9 @@
 import PropTypes from 'prop-types'
 
+
+// State: existe state a nível local e a nível global.
+
+
 // Parâmetros do componente funcional são as props
 const Header = ({ text, textColor, bgColor }) => {
 
